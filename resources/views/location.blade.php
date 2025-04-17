@@ -12,7 +12,7 @@
             <div class="h-96 w-full bg-gray-200">
                 <!-- Replace with your actual map embed code -->
                 <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0527017144933!2d106.82527927468936!3d-6.259988993753851!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f17f256abbb7%3A0x3c276398aad8867!2sJl.%20Wolter%20Monginsidi%20No.63%2C%20RT.1%2FRW.5%2C%20Melawai%2C%20Kec.%20Kby.%20Baru%2C%20Kota%20Jakarta%20Selatan%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2012160!5e0!3m2!1sen!2sid!4v1681625841348!5m2!1sen!2sid"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.018150895634!2d110.63758737500392!3d-7.681196692335801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a4118fae7a3c1%3A0x56e62e04e9f626d9!2sGetourthrift!5e0!3m2!1sid!2sid!4v1744848615906!5m2!1sid!2sid"
                     width="100%"
                     height="100%"
                     style="border:0;"
@@ -33,7 +33,7 @@
                         </svg>
                         <div>
                             <h3 class="font-semibold">Address</h3>
-                            <p class="text-gray-600">Jl. Wolter Monginsidi No.63, RT.1/RW.5, Melawai, Kec. Kby. Baru, Jakarta Selatan, DKI Jakarta 12160</p>
+                            <p class="text-gray-600">Perumahan griya permata, Area Sawah, Drono, Kec. Ngawen, Kabupaten Klaten, Jawa Tengah 57466</p>
                         </div>
                     </div>
 

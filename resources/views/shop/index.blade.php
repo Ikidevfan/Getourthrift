@@ -25,9 +25,9 @@
         </div>
         
         <!-- See All Button -->
-        <div class="flex justify-center mt-12">
+        {{-- <div class="flex justify-center mt-12">
             <a href="{{ route('shop.all') }}" class="border border-primary text-primary px-8 py-3 rounded-md hover:bg-primary hover:text-white transition duration-300">See All</a>
-        </div>
+        </div> --}}
         
         <h1 class="text-4xl md:text-6xl font-serif text-primary text-center my-16">Treasure</h1>
         

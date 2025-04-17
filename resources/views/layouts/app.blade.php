@@ -241,7 +241,7 @@
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                                         d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                                 </svg>
-                                <span class="text-gray-400">123 Thrift Street<br>Jakarta, Indonesia</span>
+                                <span class="text-gray-400">Perumahan griya permata, Area Sawah, Drono, Kec. Ngawen, Kabupaten Klaten,<br> Jawa Tengah, Indonesia</span>
                             </li>
                             <li class="flex items-start">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-3 text-gray-400 mt-1"

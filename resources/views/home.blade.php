@@ -35,18 +35,16 @@
                         <h2 class="text-5xl md:text-7xl font-serif mb-6">TREASURE</h2>
                         
                         <p class="text-white/80 mb-8">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                            veniam,
+                            Temukan gaya unik dengan harga asik. Getourthrift siap lengkapi look kamu setiap hari.
                         </p>
                         
                         <!-- Product Carousel -->
                         <div class="relative mt-12">
                             <div class="bg-white/20 backdrop-blur-sm rounded-lg p-4 hover:bg-white/30 transition duration-300">
-                                <img src="{{ asset('images/products/batik-pink.jpg') }}" alt="Featured Product" class="w-full h-auto rounded">
+                                <img src="{{ asset('images/n8.png') }}" alt="Featured Product" class="w-[100px] h-[80px] h-auto rounded">
                                 <div class="mt-4 flex justify-between items-center">
                                     <div>
-                                        <h3 class="text-xl font-semibold">Batik Pink</h3>
+                                        <h3 class="text-xl font-semibold">Fadedge Jeans</h3>
                                         <p class="text-sm text-white/80">Exclusive Collection</p>
                                     </div>
                                     <a href="{{ route('shop.product', 1) }}" class="bg-white text-primary px-6 py-2 rounded hover:bg-gray-100 transition flex items-center">
@@ -59,7 +57,7 @@
                             </div>
                             
                             <!-- Carousel Controls -->
-                            <div class="flex justify-between mt-4">
+                            {{-- <div class="flex justify-between mt-4">
                                 <button class="text-white/80 hover:text-white bg-white/10 p-2 rounded-full hover:bg-white/20 transition">
                                     <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
@@ -75,7 +73,7 @@
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
                                     </svg>
                                 </button>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div>

@@ -8,7 +8,7 @@
     
     <div class="max-w-3xl mx-auto">
         <div class="mb-10">
-            <img src="{{ asset('images/about-store.jpg') }}" alt="Our Store" class="w-full h-auto rounded-lg shadow-lg mb-6">
+            <img src="{{ asset('images/logo.png') }}" alt="Our Store" class="w-full h-auto rounded-lg shadow-lg mb-6">
             
             <h2 class="text-2xl font-bold mb-4">Our Story</h2>
             <p class="text-gray-700 mb-4">
